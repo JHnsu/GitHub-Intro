@@ -1,2 +1,2 @@
 # GitHub-Intro
-A simple Python project for learning Git and GitHub workflows.
+This project demonstrates basic Git and GitHub collaboration.
